@@ -1,0 +1,2 @@
+backend-%:
+	$(MAKE) -C backend $*
