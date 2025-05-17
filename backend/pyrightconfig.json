@@ -1,0 +1,10 @@
+{
+	"venvPath": ".",
+	"venv": ".venv",
+	"pythonVersion": "3.13",
+	"reportUnknownParameterType": "none",
+	"reportUnknownLambdaType": "none",
+	"reportUnknownMemberType": "none",
+	"reportUnknownArgumentType": "none",
+	"reportUnknownVariableType": "none"
+}
