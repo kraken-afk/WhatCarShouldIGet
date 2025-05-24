@@ -1,5 +1,5 @@
 LINT_TARGET=.
-MANAGE=./manage.py
+MANAGE=./src/manage.py
 
 lint:
 	ruff check --fix $(LINT_TARGET)

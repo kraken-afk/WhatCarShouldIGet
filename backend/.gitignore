@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+
+# build artifacts
+build/
+target/
+
+# Test files
+test/
+
+# dotfiles
+*.env
+
+# Database files
+*.sqlite3
+chroma_db/
